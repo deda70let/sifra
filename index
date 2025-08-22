@@ -1,0 +1,60 @@
+<!doctype html>
+
+<html>
+<head>
+	<meta charset="UTF-8">
+
+
+
+
+
+
+<style>
+	body {background-color: #87cefa; }
+	h1 {color: #006400; text-align: center; font-size: 300%}
+	h2 {color: #8b4513; text-align: center; font-size: 150%}
+	p {color: #8b4513; text-align: center; font-size: 120%}
+	h3 {color: #20b2aa; text-align: center; font-size: 300%}
+	a:link {color: #8b4513; font-size: 150%}
+	a:visited {color: olive;}
+	a:active {color: #FF0000}
+</style>
+
+</head>
+
+
+
+
+
+<body>  
+<center>	
+		<h1>Gratuluji zvladl jsi vylustit sifru</h1>
+	
+		<br>
+	<h2>tady to bude</h2>
+		<br/>
+		
+
+	<!-- Počítání návštěv Toplist -->	
+	<center>
+  	<a href="https://www.toplist.cz" id="toplistcz1839969" title="TOPlist">
+    	<noscript>
+      	<img src="https://toplist.cz/count.asp?id=1839969&logo=mc&njs=1" border="0" alt="TOPlist" 		width="12" height="80"/>
+    	</noscript>
+  	</a>
+	</center>
+
+	<script>
+  	(function(d,e,s) {
+    	d.getElementById('toplistcz1839969').innerHTML='<img src="https://toplist.cz/count.asp?		id=1839969&logo=mc&http='+
+    	e(d.referrer)+'&t='+e(d.title)+'&l='+e(d.URL)+'&wi='+e(s.width)+'&he='+e(s.height)+'&cd='+
+    	e(s.colorDepth)+'" width="120" height="80" border="0" alt="TOPlist" />';
+  	}(document,encodeURIComponent,window.screen))
+
+	</center>
+	
+</script>
+	<!-- Počítání návštěv Toplist konec -->
+
+</body>
+</html>
